@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "CN"
-title                    : "Wang Xu / under updating"
+title                    : "Wang Xu's Homepage"
 title_separator          : "-"
 name                     : &name "Xu Wang"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "jaymewx/jaymewx.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Wangxu's profile"
+  name             : "Wangxu"
   pronouns         : # example: "she/her"  
   bio              : "Professional weirdo with a passion for Computer Science. Approach with snacks or good stories."
   location         : "Wuhan, China"
