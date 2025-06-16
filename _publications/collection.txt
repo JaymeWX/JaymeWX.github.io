@@ -1,28 +1,28 @@
-Wang X, Wang L, Zhong X, et al. Local-Global Sparse Transformer for Road Extraction from Remote Sensing Imagery[J]. IEEE Transactions on Geoscience and Remote Sensing. (小修，SCI 中科院一区)
-
-Wang L, Wang X*, Liu Z, Zhang S. Towards Equitable Green Spaces: A Comprehensive Study of Accessibility and Inequality in 314 Chinese Cities[J]. Cities. (大修，SCI 中科院一区) 
-
-Liu Y, Cheng X, Xu N, Wang L, Wang X*, Zhong X*. MFAE-YOLO: Multi-Feature Attention-Enhanced Network for Remote Sensing Images Object Detection[J]. IEEE Transactions on Geoscience and Remote Sensing. (SCI 中科院一区)
-
-Wang L, Cheng R, Wang X*, et al. A Dynamic Assessment for Greenness Exposure and Socioeconomic Drivers: Evidence from 314 Chinese Cities (2000-2020)[J]. Urban Forestry \& Urban Greening, 2025: 128717. (SCI 中科院二区)
-
-Wang X, Hu R, Wang Z, et al. Long-Term Background Redundancy Reduction for Earth Observatory Video Coding[J]. IEEE Transactions on Circuits \& Systems for Video Technology (TCSVT), 2019, 29(10):  4309 - 4320. (SCI 中科院一区)
-
-Wang X, Hu R, Wang Z, et al. Long Term Background Reference Based Satellite Video Coding[C]//ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019: 1822-1826. (CCF B类会议)
-
-Wang X, Hu R, Wang Z, et al. Virtual background reference frame based satellite video coding[J]. IEEE Signal Processing Letters, 2018, 25(10): 1445-1449. (SCI 中科院二区, JCR Q2)
-
-Wang X, Hu R, Xiao J. Frame Rate Conversion Based High Efficient Compression Method for Video Satellite[C]//Pacific Rim Conference on Multimedia. Springer, Cham, 2018: 35-44. (CCF C类会议)
-
-Wang X, Xiao J, Hu R, et al. Cruise UAV video compression based on long-term wide-range background[C]//2017 Data Compression Conference (DCC). IEEE, 2017: 466-466. (CCF B类会议)
-
-Zhou X, Wang X, Mou W, et al. Recovery analysis of log-sum minimization under mutual incoherence property[J]. signal processing, 2023, 208: 108994.
-
-Zhou X, Liu X, Zhang G, Jia L, Wang X, et al. An iterative threshold algorithm of log-sum regularization for sparse problem[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023.
-
-Fang J, Xiao J, Wang X, et al. Arbitrary scale super resolution network for satellite imagery[J]. China Communications, 2022, 19(8): 234-246.
-
-Wang W, Wang L, Wang X, et al. Geographical Determinants of Regional Retail Sales: Evidence from 12,500 Retail Shops in Qiannan County, China[J]. ISPRS International Journal of Geo-Information, 2022, 11(5): 302.
+- Wang X, Wang L, Zhong X, et al. Local-Global Sparse Transformer for Road Extraction from Remote Sensing Imagery[J]. IEEE Transactions on Geoscience and Remote Sensing. (小修，SCI 中科院一区)
+- 
+- Wang L, Wang X*, Liu Z, Zhang S. Towards Equitable Green Spaces: A Comprehensive Study of Accessibility and Inequality in 314 Chinese Cities[J]. Cities. (大修，SCI 中科院一区) 
+- 
+- Liu Y, Cheng X, Xu N, Wang L, Wang X*, Zhong X*. MFAE-YOLO: Multi-Feature Attention-Enhanced Network for Remote Sensing Images Object Detection[J]. IEEE Transactions on Geoscience and Remote Sensing. (SCI 中科院一区)
+- 
+- Wang L, Cheng R, Wang X*, et al. A Dynamic Assessment for Greenness Exposure and Socioeconomic Drivers: Evidence from 314 Chinese Cities (2000-2020)[J]. Urban Forestry \& Urban Greening, 2025: 128717. (SCI 中科院二区)
+- 
+- Wang X, Hu R, Wang Z, et al. Long-Term Background Redundancy Reduction for Earth Observatory Video Coding[J]. IEEE Transactions on Circuits \& Systems for Video Technology (TCSVT), 2019, 29(10):  4309 - 4320. (SCI 中科院一区)
+- 
+- Wang X, Hu R, Wang Z, et al. Long Term Background Reference Based Satellite Video Coding[C]//ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019: 1822-1826. (CCF B类会议)
+- 
+- Wang X, Hu R, Wang Z, et al. Virtual background reference frame based satellite video coding[J]. IEEE Signal Processing Letters, 2018, 25(10): 1445-1449. (SCI 中科院二区, JCR Q2)
+- 
+- Wang X, Hu R, Xiao J. Frame Rate Conversion Based High Efficient Compression Method for Video Satellite[C]//Pacific Rim Conference on Multimedia. Springer, Cham, 2018: 35-44. (CCF C类会议)
+- 
+- Wang X, Xiao J, Hu R, et al. Cruise UAV video compression based on long-term wide-range background[C]//2017 Data Compression Conference (DCC). IEEE, 2017: 466-466. (CCF B类会议)
+- 
+- Zhou X, Wang X, Mou W, et al. Recovery analysis of log-sum minimization under mutual incoherence property[J]. signal processing, 2023, 208: 108994.
+- 
+- Zhou X, Liu X, Zhang G, Jia L, Wang X, et al. An iterative threshold algorithm of log-sum regularization for sparse problem[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023.
+- 
+- Fang J, Xiao J, Wang X, et al. Arbitrary scale super resolution network for satellite imagery[J]. China Communications, 2022, 19(8): 234-246.
+- 
+- Wang W, Wang L, Wang X, et al. Geographical Determinants of Regional Retail Sales: Evidence from 12,500 Retail Shops in Qiannan County, China[J]. ISPRS International Journal of Geo-Information, 2022, 11(5): 302.
 
 Zhang X, Li W, Wang X, et al. A Fusion Encoder with Multi-Task Guidance for Cross-Modal Text–Image Retrieval in Remote Sensing[J]. Remote Sensing, 2023, 15(18): 4637.
 
