@@ -23,11 +23,11 @@
 - Fang J, Xiao J, Wang X, et al. Arbitrary scale super resolution network for satellite imagery[J]. China Communications, 2022, 19(8): 234-246.
 - 
 - Wang W, Wang L, Wang X, et al. Geographical Determinants of Regional Retail Sales: Evidence from 12,500 Retail Shops in Qiannan County, China[J]. ISPRS International Journal of Geo-Information, 2022, 11(5): 302.
-
-Zhang X, Li W, Wang X, et al. A Fusion Encoder with Multi-Task Guidance for Cross-Modal Text–Image Retrieval in Remote Sensing[J]. Remote Sensing, 2023, 15(18): 4637.
-
-Zhang J, Wang L, Zheng F, Wang X, et al. An Enhanced Feature Extraction Framework for Cross-Modal Image–Text Retrieval[J]. Remote Sensing, 2024, 16(12): 2201.  
-
+- 
+- Zhang X, Li W, Wang X, et al. A Fusion Encoder with Multi-Task Guidance for Cross-Modal Text–Image Retrieval in Remote Sensing[J]. Remote Sensing, 2023, 15(18): 4637.
+- 
+- Zhang J, Wang L, Zheng F, Wang X, et al. An Enhanced Feature Extraction Framework for Cross-Modal Image–Text Retrieval[J]. Remote Sensing, 2024, 16(12): 2201.  
+-
 Chen Y, Xiao J, Zhan G, Wang X, et al. Two-Level Segment-Based Bitrate Control for Live ABR Streaming[C]. International Conference on Multimedia Modeling. Springer, Cham, 2018: 56-564.
 
 Shao M , Hu R , Wang X, et al. Salient Object Detection in Video Based on Dynamic Attention Center[C]// Pacific Rim Conference on Multimedia. Springer International Publishing, 2016.
