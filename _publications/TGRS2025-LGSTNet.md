@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/TGRS2025-LGSTNet
 # excerpt: 'pass'
-date: 2025-6-15
+date: 2025-8-15
 venue: 'IEEE TGRS'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'

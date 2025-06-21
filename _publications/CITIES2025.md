@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/CITES2025
 # excerpt: 'pass'
-date: 2025-6-16
+date: 2025-9-10
 venue: 'Cities'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
