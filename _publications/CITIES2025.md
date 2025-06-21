@@ -1,5 +1,5 @@
 ---
-title: "Towards Equitable Green Spaces: A Comprehensive Study of Accessibility and Inequality in 314 Chinese Cities"
+title: "Towards Equitable Green Spaces: A Comprehensive Study of Accessibility and Inequality in 314 Chinese Cities (Under review)"
 collection: publications
 category: manuscripts
 permalink: /publication/CITES2025
